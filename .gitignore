@@ -1,0 +1,6 @@
+.cache
+bin
+compile_commands.json
+obj
+*.qbs
+libs/**/*.a
